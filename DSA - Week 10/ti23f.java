@@ -4,8 +4,5 @@ public class ti23f {
         
         siswa1.setDataSiswa("12","Rudi", "Cisaat");
         siswa1.infoSiswa();
-
-
-
     }
 }

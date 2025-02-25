@@ -10,7 +10,7 @@ public class Pertemuan5 {
         System.out.println(Arrays.toString(data1));
         int data2 [] = {5,8,6,7};                  // bisa dibikin langsung
         System.out.println(Arrays.toString(data2));
-        // cari rata rata :
+        // cari rata rata :W
         double total =0;
         for(int i = 0;i < data1.length;i++){
             total = total + data1[i];
